@@ -1,4 +1,4 @@
-About
+Linaro Toolchain 4.7.4 - 2013.12
 ================
 
-Linaro toolchain 4.7.4 - 13.12 - for compiling android ROM and kernel
+Linaro toolchain 4.7.4 - 2013.12 - for compiling android **_ROM + kernel_**.
